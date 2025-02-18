@@ -21,7 +21,7 @@ body {
 .news-ticker {
     display: inline-block;
     white-space: nowrap;
-    animation: scroll-news 20s linear infinite;
+    animation: scroll-news 60s linear infinite;
 }
 
 .news-item {
