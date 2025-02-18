@@ -8,14 +8,15 @@ body {
   }
 .news-container {
     width: 100%;
+    margin-top: 20px;
     overflow: hidden;
     background-color: #333;
     color: #fff;
-    padding: 10px 0;
+    padding: 8px 0;
     box-sizing: border-box;
-    margin-top:50px;
 
-    padding: 0;
+
+   
 }
 
 .news-ticker {
